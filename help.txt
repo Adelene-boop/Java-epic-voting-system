@@ -1,0 +1,12 @@
+How to enter your vote !In the initial menu enter the character "v" on your keyboard, this will take you to the section that will allow you to vote for a candidate.
+How do I add/view/edit staff of candidates (administrator only)!In the initial menu enter the character "a" on your keyboard, this will enter you into the administrator section and requires a user-name and password to enter. These security measures are to stop unauthorised people for accessing privileged information, settings and adding/ deleting staff or candidates. 
+How to stand for this election? !If you wished you were a candidate in this election you needed to submit you nomination a month before the election date.
+Submitted nomination but are not a candidate? !Unfortunately only a select number of nominees are chosen to stand, for the election, from all of the nominations. So unfortunately some unfortunate people may not be chosen to run for the election.
+How are the select candidates chosen? !It is unknown how management chooses the select number of candidates from all the nominations. If you have complaints please contact management not your system administrator, as the administrator does not choose the candidates.
+How many times can staff vote? !Each staff member gets one and only one vote, to vote in each election, to vote for one of the candidates.
+How come there are more than 3 candidates? !There are more than three candidates because, unlike the paper version, the electronic version management has decided to allow more people to run for election.
+Forgot password !If you happen to forget your password to login please feel free to contact the administrator, so they can give you your password again.
+Forgot staff ID ! If you happen to forget you staff ID number, please contact the administrator of the voting system, to they can look you your staff ID number for you.
+System doesn't know your staff ID number !Please contact the voting systems administrator so they can add you to the system, so then you can vote.
+Want to change your vote? !Unfortunately there is no option to change your vote. This is why you have to confirm the candidate who you voted for by entering the letter "y", so you cannot vote for the wrong candidate.
+It says I am out of the Date range !To maintain the integrity of the voting process, there is a set time where you can vote. If the current date is in the within the range shown, please contact your systems administrator.

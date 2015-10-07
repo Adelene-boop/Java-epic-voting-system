@@ -1,0 +1,40 @@
+Requirements for Tasks to be completed for Iteration two:
+
+DONE
+1.	To help potential users, your system must offer a help menu with options to describe more details about the voting process and how your system works via a help menu. 
+(Note: information displayed for help must be obtained from a text file and not hardcoded into the program)
+
+DONE
+2.	To prevent error in voting, staff must use a password before they can place a vote (each staff must have their own password).
+
+DONE
+3.	To keep a record of staff vote, a date timestamp for when staff voted must be recorded for each staff.
+
+DONE
+4.	To help identify departments candidates belong to, system must record department name for each a candidate to be elected, Departments at epic construction are: Admin, Construction, Design & build, Procurement, Finance and Management.
+
+DONE
+5.	To maintain the integrity of the voting process for when ballots are open, your system must check the date before accepting a vote from staff to ensure that is within the 7 days that staff are allowed to vote. 
+
+DONE														DONE  DONE       DONE
+6.	Provide functionality for the system administrator to add, view, and delete staff from the staff list stored in staff.txt file.
+
+DONE 													DONE DONE      DONE
+7.	Provide functionality for a system administrator to add, view, and delete Candidate from the candidate list stored in candidate.txt file.
+
+DONE 180 lines worth							CANNOT ADD DATE RANGE  //has a default date instead
+8.	Provide functionality for a system administrator to Add, view, update date range for when voting can take place.
+
+DONE
+9.	Provide functionality for system administrator to produce report for list of staff that have voted (including date voted) and staff that did not place a vote.
+
+
+10.	At the completion of your project you are required to create a short status report (2 Pages) to describe:
+	a.	Requirements that are completed   
+	b.	Modification or addition to the above requirements
+	c.	Requirements that are still to be completed
+	d.	Explanation of changes you made to program design (ie: changes made to classes or file structure that impact the overall design of the system)
+			-added a tab after dai jin on the staff.txt to fix alignment problem the short name caused
+			-changed file structure of staff and candidate 
+	
+	e.	Step by step explanation for scenario of functionalities implemented/completed  (similar to information provided to you at completion of previous iteration in page 3 of this document)
